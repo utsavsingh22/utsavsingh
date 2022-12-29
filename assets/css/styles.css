@@ -226,7 +226,7 @@ img {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  padding-bottom: 1rem;
+  padding-bottom: 6rem;
 }
 
 .home__social-icon {
@@ -282,7 +282,7 @@ img {
         -ms-flex-direction: row;
             flex-direction: row;
     padding-top: 8rem;
-    padding-bottom: 0;
+    padding-bottom: 8rem;
   }
   .home__social-icon {
     margin-right: 2rem;
