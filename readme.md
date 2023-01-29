@@ -1,5 +1,5 @@
 
-## 👨‍💻 My Portfolio [https://utsavsingh22.github.io/utsavsingh/](https://utsavsingh69.github.io/utsavsingh/)
+## 👨‍💻 My Portfolio [utsavsingh22](https://utsavsingh22.github.io/utsavsingh/)
 
 - Made Using HTML,css,js
 
